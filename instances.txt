@@ -1,0 +1,30 @@
+Object: Golden Doodle
+
+Attributes:
+color: "Gold"
+numberOfPuppies: 0
+hairLength: "Long"
+birthYear: 2014
+tailWagging: False
+
+Methods:
+petGoodBoy: tailWagging = True
+groom: hairlength = "Short"
+breed: 0 + 3 = 3
+calculateAge: 2019 - 2014 = 5
+
+
+Object: Moose (that's his name. I think this should be okay?)
+
+Attributes:
+color: "Brown White Black"
+numberOfPuppies: 2
+hairLength: "Shaggy"
+birthYear: 2017
+tailWagging: True
+
+Methods:
+petGoodBoy: tailWagging = True (does it have to change the boolean attribute?)
+groom: hairLength = "Medium"
+breed: numberOfPuppies = 2 + 3 = 5
+calculateAge: 2019 - 2017 = 2
