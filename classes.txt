@@ -1,0 +1,14 @@
+Class: Dog
+
+Attributes:
+color (string)
+numberOfPuppies (integer)
+hairLength (string)
+birthYear (integer)
+tailWagging (boolean)
+
+Methods:
+petGoodBoy (makes tailWagging attribute True)
+groom (changes hairLength attribute)
+breed (increases numberOfPuppies +3)
+calculateAge (CurrentYear - birthYear)
